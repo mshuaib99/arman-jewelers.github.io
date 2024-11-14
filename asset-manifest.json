@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e64f13e0.css",
+    "main.js": "/static/js/main.1338ed2f.js",
+    "static/js/453.ed970126.chunk.js": "/static/js/453.ed970126.chunk.js",
+    "static/media/jewelry-hero.jpg": "/static/media/jewelry-hero.dff7fe3389ffd7f15590.jpg",
+    "index.html": "/index.html",
+    "main.e64f13e0.css.map": "/static/css/main.e64f13e0.css.map",
+    "main.1338ed2f.js.map": "/static/js/main.1338ed2f.js.map",
+    "453.ed970126.chunk.js.map": "/static/js/453.ed970126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e64f13e0.css",
+    "static/js/main.1338ed2f.js"
+  ]
+}
